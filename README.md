@@ -1,1 +1,1 @@
-#Note App
+## AI Reading App
